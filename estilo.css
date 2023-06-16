@@ -1,0 +1,22 @@
+nav{
+    background-color:#0f110f;
+    position: fixed;
+}
+
+@font-face {
+    font-family: Humblle Rought Caps ;
+    src: url(Humblle\ Rought\ Caps.ttf);
+}
+
+h1, h4{
+    font-family: Humblle Rought Caps ;
+    color: rgb(243, 227, 45);
+}
+
+form{
+    background-color:  rgb(243, 227, 45);
+}
+img{
+    width: 200;
+    height: 200;
+}
